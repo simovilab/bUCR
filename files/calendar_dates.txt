@@ -1,0 +1,5 @@
+service_id,date,exception_type,holiday_name
+entresemana,20260831,2,Día de la Persona Negra y la Cultura Afrocostarricense
+entresemana,20260915,2,Día de la Independencia
+entresemana,20261012,2,Día de las Culturas
+entresemana,20261201,2,Abolición del Ejército
