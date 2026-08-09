@@ -1,0 +1,60 @@
+name: gtfs-validator
+
+on:
+  push:
+    branches: ["**"]
+    paths:
+      - "files/**"
+      - "build.py"
+      - "bucr.zip"
+      - ".github/workflows/gtfs-validator.yml"
+  pull_request:
+    paths:
+      - "files/**"
+      - "build.py"
+      - "bucr.zip"
+      - ".github/workflows/gtfs-validator.yml"
+
+env:
+  VALIDATOR_VERSION: "8.0.0"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Regenerate bucr.zip and api/*.json
+        run: uv run build.py
+
+      - name: Run gtfs-validator (MobilityData)
+        run: |
+          mkdir -p validation
+          docker run --rm -v "${{ github.workspace }}:/data" \
+            ghcr.io/mobilitydata/gtfs-validator:${{ env.VALIDATOR_VERSION }} \
+            -i /data/bucr.zip -o /data/validation -c cr --skip_validator_update
+
+      - name: Upload validation report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: gtfs-validation-report
+          path: validation/
+
+      - name: Fail on ERROR notices
+        run: |
+          python3 -c "
+          import json, sys
+          report = json.load(open('validation/report.json', encoding='utf-8'))
+          errors = [n for n in report.get('notices', []) if n.get('severity') == 'ERROR']
+          if errors:
+              for n in errors:
+                  print(f\"ERROR: {n['code']} ({n.get('totalNotices')} times)\")
+              sys.exit(1)
+          print('No ERROR notices.')
+          "
