@@ -1,2 +1,2 @@
 fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-no_tarifa,0,CRC,0,0,bUCR,
+no_tarifa,0,CRC,0,0,OSG,

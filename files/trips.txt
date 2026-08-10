@@ -1,123 +1,123 @@
 route_id,service_id,trip_id,trip_departure_time,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_06:20,06:20:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_06:40,06:40:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_07:10,07:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_07:30,07:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_08:00,08:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_08:35,08:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:05,09:05:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:25,09:25:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:55,09:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_10:15,10:15:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_10:45,10:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_11:05,11:05:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_11:45,11:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:10,12:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:35,12:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:55,12:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_13:45,13:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_14:10,14:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_14:35,14:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:00,15:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:25,15:25:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:50,15:50:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_16:30,16:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:00,17:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:30,17:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:55,17:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_18:30,18:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_18:55,18:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_19:30,19:30:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_20:05,20:05:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_20:30,20:30:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_21:15,21:15:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
-bUCR_L1,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_21:35,21:35:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_06:20,06:20:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_06:50,06:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_07:10,07:10:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_07:40,07:40:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_08:00,08:00:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_08:45,08:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_09:05,09:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_09:35,09:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_09:55,09:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_10:25,10:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_10:45,10:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_11:25,11:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_11:50,11:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_12:15,12:15:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_12:35,12:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_13:25,13:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_13:50,13:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_14:15,14:15:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_14:40,14:40:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_15:05,15:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_15:30,15:30:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_15:55,15:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_16:35,16:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_17:05,17:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_17:35,17:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_18:05,18:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_18:30,18:30:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_19:05,19:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_19:45,19:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_20:10,20:10:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_educacion_entresemana_20:55,20:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR_L1,entresemana,desde_odontologia_a_edufi_entresemana_21:20,21:20:00,EDUFI,,1,desde_odontologia_a_edufi,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:30,06:30:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:55,06:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_07:20,07:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_07:45,07:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_08:25,08:25:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_08:50,08:50:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_09:15,09:15:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_09:40,09:40:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:05,10:05:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:30,10:30:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:55,10:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_11:20,11:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_11:55,11:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_12:20,12:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_12:45,12:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_13:10,13:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:00,14:00:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:20,14:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:50,14:50:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_15:10,15:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_15:40,15:40:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_16:00,16:00:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_16:45,16:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:10,17:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:45,17:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:10,18:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:45,18:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR_L1,entresemana,desde_artes_con_milla_entresemana_19:10,19:10:00,Odontología,,0,desde_artes_con_milla,0,2
-bUCR_L1,entresemana,desde_artes_con_milla_entresemana_19:40,19:40:00,Odontología,,0,desde_artes_con_milla,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_06:35,06:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_07:00,07:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_07:25,07:25:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_07:50,07:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_08:30,08:30:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_08:55,08:55:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_09:20,09:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_09:45,09:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_10:10,10:10:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_10:35,10:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_11:00,11:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_11:35,11:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_12:00,12:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_12:25,12:25:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_12:50,12:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_13:40,13:40:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_14:00,14:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_14:30,14:30:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_14:50,14:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_15:20,15:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_15:40,15:40:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_16:10,16:10:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_16:45,16:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_17:20,17:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_17:45,17:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_18:20,18:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_18:45,18:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
-bUCR_L1,entresemana,desde_odontologia_a_artes_entresemana_19:20,19:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_06:20,06:20:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_06:40,06:40:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_07:10,07:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_07:30,07:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_08:00,08:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_08:35,08:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:05,09:05:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:25,09:25:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_09:55,09:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_10:15,10:15:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_10:45,10:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_11:05,11:05:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_11:45,11:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:10,12:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:35,12:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_12:55,12:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_13:45,13:45:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_14:10,14:10:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_14:35,14:35:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:00,15:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:25,15:25:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_15:50,15:50:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_16:30,16:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:00,17:00:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:30,17:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_17:55,17:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_18:30,18:30:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_sin_milla_entresemana_18:55,18:55:00,Odontología,,0,desde_educacion_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_19:30,19:30:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_20:05,20:05:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_20:30,20:30:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_21:15,21:15:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_educacion_a_odontologia_con_milla_entresemana_21:35,21:35:00,Odontología,,0,desde_educacion_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_06:20,06:20:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_06:50,06:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_07:10,07:10:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_07:40,07:40:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_08:00,08:00:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_08:45,08:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_09:05,09:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_09:35,09:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_09:55,09:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_10:25,10:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_10:45,10:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_11:25,11:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_11:50,11:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_12:15,12:15:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_12:35,12:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_13:25,13:25:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_13:50,13:50:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_14:15,14:15:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_14:40,14:40:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_15:05,15:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_15:30,15:30:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_15:55,15:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_16:35,16:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_17:05,17:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_17:35,17:35:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_18:05,18:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_18:30,18:30:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_19:05,19:05:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_19:45,19:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_20:10,20:10:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_20:55,20:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
+bUCR,entresemana,desde_odontologia_a_edufi_entresemana_21:20,21:20:00,EDUFI,,1,desde_odontologia_a_edufi,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:30,06:30:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:55,06:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_07:20,07:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_07:45,07:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_08:25,08:25:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_08:50,08:50:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_09:15,09:15:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_09:40,09:40:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:05,10:05:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:30,10:30:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_10:55,10:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_11:20,11:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_11:55,11:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_12:20,12:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_12:45,12:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_13:10,13:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:00,14:00:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:20,14:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_14:50,14:50:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_15:10,15:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_15:40,15:40:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_16:00,16:00:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_16:45,16:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:10,17:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:45,17:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:10,18:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:45,18:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
+bUCR,entresemana,desde_artes_con_milla_entresemana_19:10,19:10:00,Odontología,,0,desde_artes_con_milla,0,2
+bUCR,entresemana,desde_artes_con_milla_entresemana_19:40,19:40:00,Odontología,,0,desde_artes_con_milla,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_06:35,06:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_07:00,07:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_07:25,07:25:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_07:50,07:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_08:30,08:30:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_08:55,08:55:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_09:20,09:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_09:45,09:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_10:10,10:10:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_10:35,10:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_11:00,11:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_11:35,11:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_12:00,12:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_12:25,12:25:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_12:50,12:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_13:40,13:40:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_14:00,14:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_14:30,14:30:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_14:50,14:50:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_15:20,15:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_15:40,15:40:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_16:10,16:10:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_16:45,16:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_17:20,17:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_17:45,17:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_18:20,18:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_18:45,18:45:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
+bUCR,entresemana,desde_odontologia_a_artes_entresemana_19:20,19:20:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
