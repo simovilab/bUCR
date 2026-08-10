@@ -132,7 +132,9 @@ def validate(files_dir):
         errors.append("stop_times.stop_id has values not present in stops.stop_id")
     if "fare_rules" in tables and tables["fare_rules"]:
         if not col("fare_rules", "route_id") <= col("routes", "route_id"):
-            errors.append("fare_rules.route_id has values not present in routes.route_id")
+            errors.append(
+                "fare_rules.route_id has values not present in routes.route_id"
+            )
     if "calendar_dates" in tables and tables["calendar_dates"]:
         if not col("calendar_dates", "service_id") <= col("calendar", "service_id"):
             errors.append(
@@ -146,7 +148,9 @@ def validate(files_dir):
         by_trip[r["trip_id"]].append(int(r["stop_sequence"]))
     unordered = [t for t, seq in by_trip.items() if seq != sorted(seq)]
     if unordered:
-        errors.append(f"unordered stop_sequence in {len(unordered)} trip(s): {unordered[:5]}")
+        errors.append(
+            f"unordered stop_sequence in {len(unordered)} trip(s): {unordered[:5]}"
+        )
 
     if len(tables["routes"]) != 1:
         errors.append(f"expected exactly 1 route, found {len(tables['routes'])}")
@@ -161,9 +165,13 @@ def validate(files_dir):
                 errors.append(f"'#NAME?' found in {name}.txt")
 
     if errors:
-        raise SystemExit("Referential integrity check failed:\n  - " + "\n  - ".join(errors))
+        raise SystemExit(
+            "Referential integrity check failed:\n  - " + "\n  - ".join(errors)
+        )
 
-    print(f"Referential integrity OK ({len(tables)} files, {len(tables['trips'])} trips)")
+    print(
+        f"Referential integrity OK ({len(tables)} files, {len(tables['trips'])} trips)"
+    )
 
 
 def build_zip(files_dir, zip_path):
@@ -201,6 +209,69 @@ def build_json(files_dir, api_dir):
         f.write("\n")
 
 
+def build_geojson(files_dir, api_dir):
+    """shapes.geojson / stops.geojson, following the same convention as
+    incofer's utils/create_geo_shapes.py and create_geo_stops.py: GeoJSON is
+    generated once here at build time, not re-derived by every consumer."""
+    os.makedirs(api_dir, exist_ok=True)
+
+    shapes = read_txt(files_dir, "shapes")
+    by_shape = {}
+    for row in shapes:
+        by_shape.setdefault(row["shape_id"], []).append(row)
+
+    shape_features = []
+    for shape_id, points in by_shape.items():
+        points.sort(key=lambda p: int(p["shape_pt_sequence"]))
+        coordinates = [
+            [float(p["shape_pt_lon"]), float(p["shape_pt_lat"])] for p in points
+        ]
+        last_point = points[-1]
+        shape_features.append(
+            {
+                "type": "Feature",
+                "geometry": {"type": "LineString", "coordinates": coordinates},
+                "properties": {
+                    "shape_id": shape_id,
+                    "shape_dist_traveled": float(last_point["shape_dist_traveled"])
+                    if last_point.get("shape_dist_traveled")
+                    else None,
+                },
+            }
+        )
+    with open(os.path.join(api_dir, "shapes.geojson"), "w", encoding="utf-8") as f:
+        json.dump(
+            {"type": "FeatureCollection", "features": shape_features},
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
+        f.write("\n")
+
+    stops = read_txt(files_dir, "stops")
+    stop_features = []
+    for row in stops:
+        props = dict(row)
+        lon = float(props.pop("stop_lon"))
+        lat = float(props.pop("stop_lat"))
+        props.pop("stop_point", None)  # redundant WKT encoding of the same coordinates
+        stop_features.append(
+            {
+                "type": "Feature",
+                "geometry": {"type": "Point", "coordinates": [lon, lat]},
+                "properties": props,
+            }
+        )
+    with open(os.path.join(api_dir, "stops.geojson"), "w", encoding="utf-8") as f:
+        json.dump(
+            {"type": "FeatureCollection", "features": stop_features},
+            f,
+            ensure_ascii=False,
+            indent=2,
+        )
+        f.write("\n")
+
+
 def main():
     root = os.path.dirname(os.path.abspath(__file__))
     ap = argparse.ArgumentParser()
@@ -220,6 +291,7 @@ def main():
     validate(files_dir)
     build_zip(files_dir, os.path.join(root, "bucr.zip"))
     build_json(files_dir, os.path.join(root, "api"))
+    build_geojson(files_dir, os.path.join(root, "api"))
     print("build OK")
 
 

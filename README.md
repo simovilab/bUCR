@@ -22,6 +22,13 @@ uv run build.py --from-excel horario.xlsm     # Excel -> files/*.txt -> bucr.zip
 - `api/*.json` is one JSON file per GTFS file (array of objects) plus
   `api/index.json` as a manifest; these serve as a static API consumable by
   raw URL from `infobus-web` or other consumers.
+- `api/shapes.geojson` / `api/stops.geojson`: `shapes.txt`/`stops.txt`
+  converted to GeoJSON once, here, at build time — the same convention
+  [`incofer`](https://github.com/simovilab/incofer) uses
+  (`utils/create_geo_shapes.py`/`create_geo_stops.py`) and `databus`/`infobus`
+  follow server-side via GeoDjango. Consumers should draw the published
+  GeoJSON directly rather than re-deriving `LineString`/`Point` geometry from
+  raw lat/lon themselves.
 - The build is idempotent: running it twice without touching `files/*.txt`
   produces the same `bucr.zip`.
 
