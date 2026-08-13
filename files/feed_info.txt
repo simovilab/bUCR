@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-Laboratorio de Sistemas Inteligentes de Movilidad (SIMOVI),https://simovi.org/,es,20260810,20261127,v.20260810,simovi@ucr.ac.cr
+Laboratorio de Sistemas Inteligentes de Movilidad (SIMOVI),https://simovi.org/,es,20260810,20261127,v.20260813,simovi@ucr.ac.cr
