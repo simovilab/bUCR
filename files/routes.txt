@@ -1,2 +1,2 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
-bUCR,OSG,bUCR,Ruta interna UCR,"Conecta Ciudad Universitaria Rodrigo Facio con la Ciudad de la Investigación e Instalaciones Deportivas. Desde las 19:00, las salidas de Educación y Artes Plásticas recorren la milla universitaria.",3,https://bus.ucr.ac.cr/,005DA4,FFFFFF
+bUCR,OSG,bUCR,Bus interno del campus UCR,"Conecta Ciudad Universitaria Rodrigo Facio con la Ciudad de la Investigación e Instalaciones Deportivas. Desde las 19:00, las salidas de Educación y Artes Plásticas recorren la milla universitaria.",3,https://bus.ucr.ac.cr/,005DA4,FFFFFF
