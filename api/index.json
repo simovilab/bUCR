@@ -4,11 +4,11 @@
     "stops": 22,
     "routes": 1,
     "trips": 122,
-    "stop_times": 1050,
+    "stop_times": 1049,
     "calendar": 1,
     "calendar_dates": 4,
-    "shapes": 960,
+    "shapes": 1057,
     "feed_info": 1
   },
-  "generated_at": "2026-08-14T00:16:10.802784Z"
+  "generated_at": "2026-08-14T00:46:12.870111Z"
 }

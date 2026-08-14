@@ -12,25 +12,30 @@ docker run --rm -v "$(pwd):/data" ghcr.io/mobilitydata/gtfs-validator:8.0.0 \
 ## Result (2026-08-13)
 
 - **ERROR: 0**
-- WARNING: 1
+- WARNING: 0
 - INFO: 9
 - Feed: 1 agency (`agency_id=OSG`), 1 route (`route_id=bUCR`), 122 trips,
-  22 stops, 960 shape points (6 shapes), 1050 stop_times, 4 calendar_dates.
+  22 stops, 1057 shape points (7 shapes), 1049 stop_times, 4 calendar_dates.
 
-The 2026-08-13 shape redraw (commit `af6c2c9`) dropped the shape
-previously covering the last trip of the day (Odontología → EDUFI,
-21:20) and added a new, separately-drawn `desde_edufi_a_educacion`
-shape instead, without updating that trip — this broke `build.py`'s
-referential-integrity check (`trips.shape_id` pointing at a shape_id
-that no longer existed) and failed CI. Fixed by extending that trip's
-stop_times past EDUFI to Educación (its actual, correct destination)
-and pointing it at the pre-existing `desde_odontologia_a_educacion`
-shape, which already covers the full Odontología→EDUFI→Educación path
-used by the identical 20:55 trip. The new `desde_edufi_a_educacion`
-shape was then found to be an exact point-for-point duplicate of the
-tail of `desde_odontologia_a_educacion` (0 mismatches across all 97
-points) — a redundant leftover from the redraw — so it was removed
-from `files/shapes.txt` rather than left as dead data.
+The 2026-08-13 shape redraw (commit `af6c2c9`) left `trips.txt`
+pointing at a `shape_id` that no longer existed in `files/shapes.txt`,
+breaking `build.py`'s referential-integrity check and failing CI. Once
+that reference was repaired, the feed's 7 shapes are:
+
+| shape_id | direction | from → to | stops | length |
+|---|---|---|---|---|
+| `desde_educacion_a_odontologia_sin_milla` | 0 | Educación → Odontología | 8 | 4.4 km |
+| `desde_educacion_a_odontologia_con_milla` | 0 | Educación → Odontología (via Ciencias de la Salud, Microbiología — the "milla universitaria" loop, evening service) | 10 | 4.9 km |
+| `desde_artes_a_odontologia_sin_milla` | 0 | Artes Plásticas → Odontología | 8 | 4.0 km |
+| `desde_artes_con_milla` | 0 | Artes Plásticas → Odontología (same milla universitaria loop as above) | 10 | 4.5 km |
+| `desde_odontologia_a_educacion` | 1 | Odontología → Educación | 9 | 3.2 km |
+| `desde_odontologia_a_artes` | 1 | Odontología → Artes Plásticas | 9 | 3.5 km |
+| `desde_edufi_a_educacion` | 1 | EDUFI → Educación — the 21:20 short-turn, the last run of the day; per the published schedule (the "Ruta: Ciudad Universitaria Rodrigo Facio" poster and `2026.2/horario.xlsx`, both annotating the last Odontología-column departure as "21:20 EDUFI") it starts at EDUFI rather than running the full Odontología→Educación route | 8 | 2.4 km |
+
+Direction 0 runs from the Educación/Artes Plásticas side up to
+Odontología; direction 1 runs back down. `_sin_milla`/`_con_milla`
+pairs are the same corridor with and without the extra loop through
+Ciencias de la Salud and Microbiología that runs in the evening.
 
 The same redraw also regenerated `files/shapes.txt` without a
 `shape_dist_traveled` column (present before the redraw), which
@@ -43,7 +48,7 @@ the whole feed had been computed against the pre-redraw shape
 geometry and no longer matched the new shapes, flagged as
 `stop_too_far_from_shape_using_user_distance` (up to ~430 m off, at
 the OBS/Odontología stops on 4 of the 6 shapes). Recomputed
-`shape_dist_traveled` for all 1050 stop_times rows by projecting each
+`shape_dist_traveled` for all stop_times rows by projecting each
 stop onto its trip's actual (current) shape geometry and interpolating
 cumulative distance — max resulting stop-to-shape offset is 14.9 m,
 consistent with normal curb offset. All three issues are now
@@ -53,12 +58,16 @@ it (then `uv run build.py`) any time `files/shapes.txt` is redrawn or
 stops move, to keep both distance columns truthful to the current
 geometry.
 
+Also gave the route its own `route_url` (`https://bus.ucr.ac.cr/campus`,
+distinct from `agency.agency_url`), clearing the last remaining
+notice, `same_route_and_agency_url`. The feed is now notice-clean
+except for the intentional `unknown_column` INFOs below.
+
 ## Non-ERROR notices (expected, documented)
 
 | code | severity | reason |
 |---|---|---|
 | `unknown_column` | INFO (x9) | intentional non-standard columns: `stop_point`, `stop_heading`, `shelter`, `bench`, `lit`, `bay`, `device_charging_station` in `stops.txt`; `trip_departure_time` in `trips.txt`; `holiday_name` in `calendar_dates.txt`. GTFS tolerates extra columns. |
-| `same_route_and_agency_url` | WARNING | `routes.route_url` and `agency.agency_url` are the same (`https://bus.ucr.ac.cr/`) because bUCR is a single-route agency with no per-route page of its own. |
 
 No genuine ERROR notices. The full report (`report.json`, `report.html`,
 `system_errors.json`) is regenerated on every build/CI run and is not

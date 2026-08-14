@@ -770,12 +770,12 @@
   {
     "route_id": "bUCR",
     "service_id": "entresemana",
-    "trip_id": "desde_odontologia_a_educacion_entresemana_21:20",
+    "trip_id": "desde_edufi_a_educacion_entresemana_21:20",
     "trip_departure_time": "21:20:00",
     "trip_headsign": "Educación",
     "trip_short_name": "",
     "direction_id": "1",
-    "shape_id": "desde_odontologia_a_educacion",
+    "shape_id": "desde_edufi_a_educacion",
     "wheelchair_accessible": "0",
     "bikes_allowed": "2"
   },

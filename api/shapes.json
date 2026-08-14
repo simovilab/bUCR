@@ -6718,5 +6718,684 @@
     "shape_pt_lon": "-84.049044",
     "shape_pt_sequence": "129",
     "shape_dist_traveled": "3.176"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.943385",
+    "shape_pt_lon": "-84.04492",
+    "shape_pt_sequence": "0",
+    "shape_dist_traveled": "0"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.942615",
+    "shape_pt_lon": "-84.044877",
+    "shape_pt_sequence": "1",
+    "shape_dist_traveled": "0.086"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.942042",
+    "shape_pt_lon": "-84.044839",
+    "shape_pt_sequence": "2",
+    "shape_dist_traveled": "0.15"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.941377",
+    "shape_pt_lon": "-84.044802",
+    "shape_pt_sequence": "3",
+    "shape_dist_traveled": "0.224"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940961",
+    "shape_pt_lon": "-84.044777",
+    "shape_pt_sequence": "4",
+    "shape_dist_traveled": "0.27"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940822",
+    "shape_pt_lon": "-84.045045",
+    "shape_pt_sequence": "5",
+    "shape_dist_traveled": "0.303"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940655",
+    "shape_pt_lon": "-84.045605",
+    "shape_pt_sequence": "6",
+    "shape_dist_traveled": "0.367"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940483",
+    "shape_pt_lon": "-84.045635",
+    "shape_pt_sequence": "7",
+    "shape_dist_traveled": "0.387"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940378",
+    "shape_pt_lon": "-84.045228",
+    "shape_pt_sequence": "8",
+    "shape_dist_traveled": "0.433"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.94027",
+    "shape_pt_lon": "-84.044823",
+    "shape_pt_sequence": "9",
+    "shape_dist_traveled": "0.479"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940163",
+    "shape_pt_lon": "-84.044664",
+    "shape_pt_sequence": "10",
+    "shape_dist_traveled": "0.5"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.940102",
+    "shape_pt_lon": "-84.044417",
+    "shape_pt_sequence": "11",
+    "shape_dist_traveled": "0.528"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939717",
+    "shape_pt_lon": "-84.044526",
+    "shape_pt_sequence": "12",
+    "shape_dist_traveled": "0.572"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939329",
+    "shape_pt_lon": "-84.044622",
+    "shape_pt_sequence": "13",
+    "shape_dist_traveled": "0.617"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939204",
+    "shape_pt_lon": "-84.044655",
+    "shape_pt_sequence": "14",
+    "shape_dist_traveled": "0.631"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939157",
+    "shape_pt_lon": "-84.044646",
+    "shape_pt_sequence": "15",
+    "shape_dist_traveled": "0.636"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939125",
+    "shape_pt_lon": "-84.044616",
+    "shape_pt_sequence": "16",
+    "shape_dist_traveled": "0.641"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93911",
+    "shape_pt_lon": "-84.044564",
+    "shape_pt_sequence": "17",
+    "shape_dist_traveled": "0.647"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939196",
+    "shape_pt_lon": "-84.044335",
+    "shape_pt_sequence": "18",
+    "shape_dist_traveled": "0.674"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939024",
+    "shape_pt_lon": "-84.043697",
+    "shape_pt_sequence": "19",
+    "shape_dist_traveled": "0.746"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938959",
+    "shape_pt_lon": "-84.043465",
+    "shape_pt_sequence": "20",
+    "shape_dist_traveled": "0.773"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939279",
+    "shape_pt_lon": "-84.043369",
+    "shape_pt_sequence": "21",
+    "shape_dist_traveled": "0.81"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939421",
+    "shape_pt_lon": "-84.043325",
+    "shape_pt_sequence": "22",
+    "shape_dist_traveled": "0.826"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939438",
+    "shape_pt_lon": "-84.043078",
+    "shape_pt_sequence": "23",
+    "shape_dist_traveled": "0.853"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939497",
+    "shape_pt_lon": "-84.04247",
+    "shape_pt_sequence": "24",
+    "shape_dist_traveled": "0.92"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939502",
+    "shape_pt_lon": "-84.042339",
+    "shape_pt_sequence": "25",
+    "shape_dist_traveled": "0.935"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939505",
+    "shape_pt_lon": "-84.042196",
+    "shape_pt_sequence": "26",
+    "shape_dist_traveled": "0.95"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939509",
+    "shape_pt_lon": "-84.04206",
+    "shape_pt_sequence": "27",
+    "shape_dist_traveled": "0.965"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939506",
+    "shape_pt_lon": "-84.041924",
+    "shape_pt_sequence": "28",
+    "shape_dist_traveled": "0.98"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939327",
+    "shape_pt_lon": "-84.041853",
+    "shape_pt_sequence": "29",
+    "shape_dist_traveled": "1.002"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939164",
+    "shape_pt_lon": "-84.041687",
+    "shape_pt_sequence": "30",
+    "shape_dist_traveled": "1.027"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.939044",
+    "shape_pt_lon": "-84.041503",
+    "shape_pt_sequence": "31",
+    "shape_dist_traveled": "1.051"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938827",
+    "shape_pt_lon": "-84.041136",
+    "shape_pt_sequence": "32",
+    "shape_dist_traveled": "1.098"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938778",
+    "shape_pt_lon": "-84.041071",
+    "shape_pt_sequence": "33",
+    "shape_dist_traveled": "1.107"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938724",
+    "shape_pt_lon": "-84.041019",
+    "shape_pt_sequence": "34",
+    "shape_dist_traveled": "1.115"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938607",
+    "shape_pt_lon": "-84.040955",
+    "shape_pt_sequence": "35",
+    "shape_dist_traveled": "1.13"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938477",
+    "shape_pt_lon": "-84.040946",
+    "shape_pt_sequence": "36",
+    "shape_dist_traveled": "1.145"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938317",
+    "shape_pt_lon": "-84.040985",
+    "shape_pt_sequence": "37",
+    "shape_dist_traveled": "1.163"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937905",
+    "shape_pt_lon": "-84.041098",
+    "shape_pt_sequence": "38",
+    "shape_dist_traveled": "1.211"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937915",
+    "shape_pt_lon": "-84.041372",
+    "shape_pt_sequence": "39",
+    "shape_dist_traveled": "1.241"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93793",
+    "shape_pt_lon": "-84.041623",
+    "shape_pt_sequence": "40",
+    "shape_dist_traveled": "1.268"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938019",
+    "shape_pt_lon": "-84.041621",
+    "shape_pt_sequence": "41",
+    "shape_dist_traveled": "1.278"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93808",
+    "shape_pt_lon": "-84.041639",
+    "shape_pt_sequence": "42",
+    "shape_dist_traveled": "1.285"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938133",
+    "shape_pt_lon": "-84.041714",
+    "shape_pt_sequence": "43",
+    "shape_dist_traveled": "1.295"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938149",
+    "shape_pt_lon": "-84.041766",
+    "shape_pt_sequence": "44",
+    "shape_dist_traveled": "1.301"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938165",
+    "shape_pt_lon": "-84.04184",
+    "shape_pt_sequence": "45",
+    "shape_dist_traveled": "1.309"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938171",
+    "shape_pt_lon": "-84.041955",
+    "shape_pt_sequence": "46",
+    "shape_dist_traveled": "1.322"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938164",
+    "shape_pt_lon": "-84.042062",
+    "shape_pt_sequence": "47",
+    "shape_dist_traveled": "1.334"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938146",
+    "shape_pt_lon": "-84.042173",
+    "shape_pt_sequence": "48",
+    "shape_dist_traveled": "1.346"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938065",
+    "shape_pt_lon": "-84.042359",
+    "shape_pt_sequence": "49",
+    "shape_dist_traveled": "1.368"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.938009",
+    "shape_pt_lon": "-84.042475",
+    "shape_pt_sequence": "50",
+    "shape_dist_traveled": "1.383"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937985",
+    "shape_pt_lon": "-84.042628",
+    "shape_pt_sequence": "51",
+    "shape_dist_traveled": "1.399"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937933",
+    "shape_pt_lon": "-84.042968",
+    "shape_pt_sequence": "52",
+    "shape_dist_traveled": "1.437"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937893",
+    "shape_pt_lon": "-84.043187",
+    "shape_pt_sequence": "53",
+    "shape_dist_traveled": "1.462"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937923",
+    "shape_pt_lon": "-84.043426",
+    "shape_pt_sequence": "54",
+    "shape_dist_traveled": "1.488"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937936",
+    "shape_pt_lon": "-84.043514",
+    "shape_pt_sequence": "55",
+    "shape_dist_traveled": "1.498"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937968",
+    "shape_pt_lon": "-84.043605",
+    "shape_pt_sequence": "56",
+    "shape_dist_traveled": "1.508"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93811",
+    "shape_pt_lon": "-84.043795",
+    "shape_pt_sequence": "57",
+    "shape_dist_traveled": "1.534"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937963",
+    "shape_pt_lon": "-84.044044",
+    "shape_pt_sequence": "58",
+    "shape_dist_traveled": "1.566"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937789",
+    "shape_pt_lon": "-84.04435",
+    "shape_pt_sequence": "59",
+    "shape_dist_traveled": "1.605"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937591",
+    "shape_pt_lon": "-84.044704",
+    "shape_pt_sequence": "60",
+    "shape_dist_traveled": "1.649"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937439",
+    "shape_pt_lon": "-84.044977",
+    "shape_pt_sequence": "61",
+    "shape_dist_traveled": "1.684"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937341",
+    "shape_pt_lon": "-84.045144",
+    "shape_pt_sequence": "62",
+    "shape_dist_traveled": "1.705"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937252",
+    "shape_pt_lon": "-84.04527",
+    "shape_pt_sequence": "63",
+    "shape_dist_traveled": "1.722"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937104",
+    "shape_pt_lon": "-84.045423",
+    "shape_pt_sequence": "64",
+    "shape_dist_traveled": "1.746"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.937033",
+    "shape_pt_lon": "-84.04548",
+    "shape_pt_sequence": "65",
+    "shape_dist_traveled": "1.756"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936927",
+    "shape_pt_lon": "-84.045556",
+    "shape_pt_sequence": "66",
+    "shape_dist_traveled": "1.77"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936853",
+    "shape_pt_lon": "-84.045587",
+    "shape_pt_sequence": "67",
+    "shape_dist_traveled": "1.779"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936772",
+    "shape_pt_lon": "-84.045591",
+    "shape_pt_sequence": "68",
+    "shape_dist_traveled": "1.788"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936679",
+    "shape_pt_lon": "-84.045567",
+    "shape_pt_sequence": "69",
+    "shape_dist_traveled": "1.799"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936529",
+    "shape_pt_lon": "-84.045487",
+    "shape_pt_sequence": "70",
+    "shape_dist_traveled": "1.818"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936467",
+    "shape_pt_lon": "-84.045449",
+    "shape_pt_sequence": "71",
+    "shape_dist_traveled": "1.826"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.9364",
+    "shape_pt_lon": "-84.045413",
+    "shape_pt_sequence": "72",
+    "shape_dist_traveled": "1.834"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936343",
+    "shape_pt_lon": "-84.045378",
+    "shape_pt_sequence": "73",
+    "shape_dist_traveled": "1.841"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936296",
+    "shape_pt_lon": "-84.045362",
+    "shape_pt_sequence": "74",
+    "shape_dist_traveled": "1.847"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936244",
+    "shape_pt_lon": "-84.045351",
+    "shape_pt_sequence": "75",
+    "shape_dist_traveled": "1.853"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936186",
+    "shape_pt_lon": "-84.045354",
+    "shape_pt_sequence": "76",
+    "shape_dist_traveled": "1.859"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.936039",
+    "shape_pt_lon": "-84.045389",
+    "shape_pt_sequence": "77",
+    "shape_dist_traveled": "1.876"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935804",
+    "shape_pt_lon": "-84.045431",
+    "shape_pt_sequence": "78",
+    "shape_dist_traveled": "1.903"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935654",
+    "shape_pt_lon": "-84.045459",
+    "shape_pt_sequence": "79",
+    "shape_dist_traveled": "1.92"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935584",
+    "shape_pt_lon": "-84.045525",
+    "shape_pt_sequence": "80",
+    "shape_dist_traveled": "1.93"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935472",
+    "shape_pt_lon": "-84.04558",
+    "shape_pt_sequence": "81",
+    "shape_dist_traveled": "1.944"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935339",
+    "shape_pt_lon": "-84.045638",
+    "shape_pt_sequence": "82",
+    "shape_dist_traveled": "1.96"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935011",
+    "shape_pt_lon": "-84.045638",
+    "shape_pt_sequence": "83",
+    "shape_dist_traveled": "1.997"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.934957",
+    "shape_pt_lon": "-84.045609",
+    "shape_pt_sequence": "84",
+    "shape_dist_traveled": "2.003"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93465",
+    "shape_pt_lon": "-84.045617",
+    "shape_pt_sequence": "85",
+    "shape_dist_traveled": "2.038"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.934771",
+    "shape_pt_lon": "-84.046134",
+    "shape_pt_sequence": "86",
+    "shape_dist_traveled": "2.096"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.934904",
+    "shape_pt_lon": "-84.046818",
+    "shape_pt_sequence": "87",
+    "shape_dist_traveled": "2.172"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.934959",
+    "shape_pt_lon": "-84.047111",
+    "shape_pt_sequence": "88",
+    "shape_dist_traveled": "2.205"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935058",
+    "shape_pt_lon": "-84.04746",
+    "shape_pt_sequence": "89",
+    "shape_dist_traveled": "2.245"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935199",
+    "shape_pt_lon": "-84.04789",
+    "shape_pt_sequence": "90",
+    "shape_dist_traveled": "2.294"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935274",
+    "shape_pt_lon": "-84.048128",
+    "shape_pt_sequence": "91",
+    "shape_dist_traveled": "2.322"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935315",
+    "shape_pt_lon": "-84.048378",
+    "shape_pt_sequence": "92",
+    "shape_dist_traveled": "2.349"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935298",
+    "shape_pt_lon": "-84.048625",
+    "shape_pt_sequence": "93",
+    "shape_dist_traveled": "2.376"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935454",
+    "shape_pt_lon": "-84.048643",
+    "shape_pt_sequence": "94",
+    "shape_dist_traveled": "2.394"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.93547",
+    "shape_pt_lon": "-84.0488",
+    "shape_pt_sequence": "95",
+    "shape_dist_traveled": "2.411"
+  },
+  {
+    "shape_id": "desde_edufi_a_educacion",
+    "shape_pt_lat": "9.935532",
+    "shape_pt_lon": "-84.049044",
+    "shape_pt_sequence": "96",
+    "shape_dist_traveled": "2.439"
   }
 ]
