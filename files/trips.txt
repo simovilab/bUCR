@@ -63,7 +63,7 @@ bUCR,entresemana,desde_odontologia_a_educacion_entresemana_19:05,19:05:00,Educac
 bUCR,entresemana,desde_odontologia_a_educacion_entresemana_19:45,19:45:00,Educación,,1,desde_odontologia_a_educacion,0,2
 bUCR,entresemana,desde_odontologia_a_educacion_entresemana_20:10,20:10:00,Educación,,1,desde_odontologia_a_educacion,0,2
 bUCR,entresemana,desde_odontologia_a_educacion_entresemana_20:55,20:55:00,Educación,,1,desde_odontologia_a_educacion,0,2
-bUCR,entresemana,desde_odontologia_a_edufi_entresemana_21:20,21:20:00,EDUFI,,1,desde_odontologia_a_edufi,0,2
+bUCR,entresemana,desde_odontologia_a_educacion_entresemana_21:20,21:20:00,Educación,,1,desde_odontologia_a_educacion,0,2
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:30,06:30:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_06:55,06:55:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_07:20,07:20:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
