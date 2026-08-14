@@ -1106,24 +1106,24 @@
   {
     "route_id": "bUCR",
     "service_id": "entresemana",
-    "trip_id": "desde_artes_con_milla_entresemana_19:10",
+    "trip_id": "desde_artes_a_odontologia_con_milla_entresemana_19:10",
     "trip_departure_time": "19:10:00",
     "trip_headsign": "Odontología",
     "trip_short_name": "",
     "direction_id": "0",
-    "shape_id": "desde_artes_con_milla",
+    "shape_id": "desde_artes_a_odontologia_con_milla",
     "wheelchair_accessible": "0",
     "bikes_allowed": "2"
   },
   {
     "route_id": "bUCR",
     "service_id": "entresemana",
-    "trip_id": "desde_artes_con_milla_entresemana_19:40",
+    "trip_id": "desde_artes_a_odontologia_con_milla_entresemana_19:40",
     "trip_departure_time": "19:40:00",
     "trip_headsign": "Odontología",
     "trip_short_name": "",
     "direction_id": "0",
-    "shape_id": "desde_artes_con_milla",
+    "shape_id": "desde_artes_a_odontologia_con_milla",
     "wheelchair_accessible": "0",
     "bikes_allowed": "2"
   },

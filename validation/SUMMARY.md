@@ -9,7 +9,7 @@ docker run --rm -v "$(pwd):/data" ghcr.io/mobilitydata/gtfs-validator:8.0.0 \
   -i /data/bucr.zip -o /data/validation -c cr
 ```
 
-## Result (2026-08-13)
+## Result (2026-08-14)
 
 - **ERROR: 0**
 - WARNING: 0
@@ -27,7 +27,7 @@ that reference was repaired, the feed's 7 shapes are:
 | `desde_educacion_a_odontologia_sin_milla` | 0 | Educación → Odontología | 8 | 4.4 km |
 | `desde_educacion_a_odontologia_con_milla` | 0 | Educación → Odontología (via Ciencias de la Salud, Microbiología — the "milla universitaria" loop, evening service) | 10 | 4.9 km |
 | `desde_artes_a_odontologia_sin_milla` | 0 | Artes Plásticas → Odontología | 8 | 4.0 km |
-| `desde_artes_con_milla` | 0 | Artes Plásticas → Odontología (same milla universitaria loop as above) | 10 | 4.5 km |
+| `desde_artes_a_odontologia_con_milla` | 0 | Artes Plásticas → Odontología (same milla universitaria loop as above) | 10 | 4.5 km |
 | `desde_odontologia_a_educacion` | 1 | Odontología → Educación | 9 | 3.2 km |
 | `desde_odontologia_a_artes` | 1 | Odontología → Artes Plásticas | 9 | 3.5 km |
 | `desde_edufi_a_educacion` | 1 | EDUFI → Educación — the 21:20 short-turn, the last run of the day; per the published schedule (the "Ruta: Ciudad Universitaria Rodrigo Facio" poster and `2026.2/horario.xlsx`, both annotating the last Odontología-column departure as "21:20 EDUFI") it starts at EDUFI rather than running the full Odontología→Educación route | 8 | 2.4 km |
@@ -62,6 +62,13 @@ Also gave the route its own `route_url` (`https://bus.ucr.ac.cr/campus`,
 distinct from `agency.agency_url`), clearing the last remaining
 notice, `same_route_and_agency_url`. The feed is now notice-clean
 except for the intentional `unknown_column` INFOs below.
+
+`desde_artes_con_milla` was renamed to `desde_artes_a_odontologia_con_milla`
+(2026-08-14) for consistency with its `_sin_milla` sibling and the rest of
+the shape/trip naming convention — the short form was never a rename, it was
+just how the id was first entered in the earliest commit (`ba70072`) and
+had gone unnoticed since. Updated everywhere the id appears: `shape_id` in
+`shapes.txt`, and `trip_id`/`shape_id` in `trips.txt` and `stop_times.txt`.
 
 ## Non-ERROR notices (expected, documented)
 

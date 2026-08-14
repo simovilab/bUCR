@@ -91,8 +91,8 @@ bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:10,17:10:00,
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_17:45,17:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:10,18:10:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
 bUCR,entresemana,desde_artes_a_odontologia_sin_milla_entresemana_18:45,18:45:00,Odontología,,0,desde_artes_a_odontologia_sin_milla,0,2
-bUCR,entresemana,desde_artes_con_milla_entresemana_19:10,19:10:00,Odontología,,0,desde_artes_con_milla,0,2
-bUCR,entresemana,desde_artes_con_milla_entresemana_19:40,19:40:00,Odontología,,0,desde_artes_con_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_con_milla_entresemana_19:10,19:10:00,Odontología,,0,desde_artes_a_odontologia_con_milla,0,2
+bUCR,entresemana,desde_artes_a_odontologia_con_milla_entresemana_19:40,19:40:00,Odontología,,0,desde_artes_a_odontologia_con_milla,0,2
 bUCR,entresemana,desde_odontologia_a_artes_entresemana_06:35,06:35:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
 bUCR,entresemana,desde_odontologia_a_artes_entresemana_07:00,07:00:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
 bUCR,entresemana,desde_odontologia_a_artes_entresemana_07:25,07:25:00,Artes Plásticas,,1,desde_odontologia_a_artes,0,2
